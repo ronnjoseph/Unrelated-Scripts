@@ -30,7 +30,6 @@ $google= 'http://feeds.feedburner.com/GoogleOnlineSecurityBlog'
 $Trendmicro= 'http://feeds.trendmicro.com/TrendMicroResearch'
 
 
-
 #CERTs around the World
 $us = 'https://us-cert.cisa.gov/ncas/current-activity.xml'
 $canada1= 'https://cyber.gc.ca/webservice/en/rss/alerts'
